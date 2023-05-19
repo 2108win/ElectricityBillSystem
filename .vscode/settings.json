@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\Study\\Java\\jar\\lib-3.6.jar",
+    "d:\\Study\\Java\\jar\\AbsoluteLayout-RELEASE170.jar"
+  ]
+}
